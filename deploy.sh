@@ -10,8 +10,6 @@ npm run docs:build
 cd docs/.vuepress/dist
 
 git init
-git config --global user.name "lujiaming1"    
-git config --global user.email "1050117861@qq.com"
 git add -A
 git commit -m 'deploy'
 
