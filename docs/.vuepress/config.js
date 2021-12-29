@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Hello Lujiaming',
     description: 'this is my new description',
-    base: '/learn-typescript/',
+    base: '/for my lover shenxinhua/',
     theme: 'reco',
     locales: {
         '/': {
